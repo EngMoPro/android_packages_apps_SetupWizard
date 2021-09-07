@@ -84,8 +84,8 @@
     <string name="intro_restore_subtitle" product="tablet">Ha készült MTKOSP mentés az előző tabletjéről, akkor azt itt visszaállíthatja.</string>
     <string name="intro_restore_subtitle" product="default">Ha készült MTKOSP mentés az előző telefonjáról, akkor azt itt visszaállíthatja.</string>
     <string name="intro_restore_button">Visszaállítás biztonsági mentésből</string>
-    <string name="update_recovery_title">A Lineage Recovery frissítése</string>
-    <string name="update_recovery_description">Frissíti a Lineage Recovery-t minden frissítés utáni első indításkor.</string>
+    <string name="update_recovery_title">A MTKOSP Recovery frissítése</string>
+    <string name="update_recovery_description">Frissíti a MTKOSP Recovery-t minden frissítés utáni első indításkor.</string>
     <string name="update_recovery_warning">A Recovery frissítésre kerül, amint befejeződött a telepítést. Ha érintetlenül akarja hagyni, tiltsa le ezt a funkciót.</string>
-    <string name="update_recovery_setting">A Lineage Recovery frissítése az operációs rendszer mellett</string>
+    <string name="update_recovery_setting">A MTKOSP Recovery frissítése az operációs rendszer mellett</string>
 </resources>

@@ -70,6 +70,6 @@
     <string name="intro_restore_subtitle" product="tablet">Kui sul on viimase MTKOSPi tahvelarvuti varundus olemas, saad selle siin taastada.</string>
     <string name="intro_restore_subtitle" product="default">Kui sul on viimase MTKOSPi telefoni varundus olemas, saad selle siin taastada.</string>
     <string name="intro_restore_button">Taasta varundusest</string>
-    <string name="update_recovery_title">Uuenda Lineage Recoveryt</string>
-    <string name="update_recovery_setting">Uuenda Lineage Recoveryt koos OSiga</string>
+    <string name="update_recovery_title">Uuenda MTKOSP Recoveryt</string>
+    <string name="update_recovery_setting">Uuenda MTKOSP Recoveryt koos OSiga</string>
 </resources>
